@@ -9,4 +9,6 @@
     - [关于hashCode和equals重写](重写.md)
 - **Spring**
     - [Spring经典面试题](Spring.md)
+- 技术教程
+    - [搭建博客](搭建博客.md)
 
