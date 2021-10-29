@@ -1,14 +1,13 @@
-- **项目文档**
-    - [远程方式](远程方式.md)
-- **个人笔记**
+- **学习笔记**
     - [Tomcat](Tomcat.md)
-    - [Java路线](Java路线.md)
 - **数据库**
     - [存储性能问题](存储性能问题.md)
 - **Java**
-    - [关于hashCode和equals重写](重写.md)
+    - [Java路线](Java路线.md)
+    - [多线程八大核心](多线程八大核心.md)
 - **Spring**
     - [Spring经典面试题](Spring.md)
-- 技术教程
-    - [搭建博客](搭建博客.md)
+- **个人博客**
+    - [关于hashCode和equals重写](重写.md)
+    - [docsify搭建博客](搭建博客.md)
 

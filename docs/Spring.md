@@ -1,5 +1,3 @@
-## 基础概念
-
 ## 1.1 不同版本的Spring Framework主要功能
 
 ## 1.2  什么是Spring Framework
