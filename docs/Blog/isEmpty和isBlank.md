@@ -1,6 +1,4 @@
-### isEmpty和isBlack的用法区别：
-
-### isEmpty系列
+## isEmpty系列
 
 #### StringUtils.isEmpty()
 
