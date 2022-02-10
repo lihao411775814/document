@@ -8,11 +8,11 @@
     - [线程与进程](Java/线程与进程.md)
     - [多线程八大核心](Java/多线程八大核心.md)
     - [volatile](Java/volatile.md)
+    - [集合](java/集合.md)
 - 算法
     - [算法](algorithm/算法.md)
     - [排序](algorithm/排序.md)
     - [队列](algorithm/队列.md)
-    
 - **Spring**
     - [Spring经典面试题](Spring/Spring.md)
 - **个人博客**
