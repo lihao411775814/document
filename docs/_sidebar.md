@@ -7,7 +7,6 @@
     - [Java路线](Java/Java路线.md)
     - [线程与进程](Java/线程与进程.md)
     - [多线程八大核心](Java/多线程八大核心.md)
-    - [volatile](Java/volatile.md)
     - [集合](java/集合.md)
 - 算法
     - [算法](algorithm/算法.md)
